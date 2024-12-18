@@ -31,7 +31,7 @@
 
 Input file samples can be found in `resources` directory. 
 
-## You can also do ths way...
+## You can also do this simple way...
 Open a command-prompt/terminal and navigate to 'resources' folder. Type the following and enter:
 `java -jar Assignment7.jar -in "name-of-command-file" -view "type-of-view" [-out "where-output-should-go"] [xmax] [ymax]`
 
