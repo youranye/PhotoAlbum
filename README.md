@@ -29,3 +29,5 @@
 - View type: `graphical`
 - View window size: `800 x 800`
 
+Input file samples can be found in `source` directory. 
+
